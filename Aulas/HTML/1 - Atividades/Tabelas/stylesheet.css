@@ -1,0 +1,61 @@
+html{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+li{
+    color: white;
+}
+
+thead tr th {
+    border: 1px solid white;
+    color: white;
+}
+
+tr td {
+    color: black;
+}
+
+tr td:hover {
+    text-align: center;
+    color: rgb(222, 233, 75);;
+    border: 1px solid rgb(222, 233, 75);
+}
+
+.cabecalho-vert{
+    border: 1px solid white;
+    color: white;
+}
+
+#fodase{
+    border: 0px solid black;
+}
+
+#pos{
+    color: rgb(4, 235, 177);
+}
+
+#neu{
+    color: gray;
+}
+
+#neg{
+    color: red;
+}
+
+#tabela {
+    display: flex;
+    margin-left: 26%;
+}

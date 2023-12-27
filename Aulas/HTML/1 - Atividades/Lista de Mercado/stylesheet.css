@@ -1,0 +1,11 @@
+#div1 {
+    top: 0%;
+}
+
+#div2 {
+    top: 0%;
+}
+
+li:hover {
+    background-color: red;
+}
