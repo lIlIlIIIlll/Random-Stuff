@@ -6,7 +6,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 import telebot
 
-bot = telebot.TeleBot("6755839756:AAHGRVE9d9y5UC9ebZifjOMD8kg5xmPvIag")
+bot = telebot.TeleBot("")
 
 escolha = False
 
