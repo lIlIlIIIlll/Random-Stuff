@@ -4,8 +4,8 @@ import telebot
 import time
 import random as r
 
-bot = telebot.TeleBot("6977412745:AAHNk3N4tRIvYkq2hPv3FWAZ40k5AsOG-wo")
-id = -1001913180272
+bot = telebot.TeleBot("")
+id = -
 
 def blaze(vezes):
     api = "https://blaze-4.com/api/roulette_games/recent"
